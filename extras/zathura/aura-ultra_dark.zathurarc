@@ -1,0 +1,38 @@
+# Aura Ultra color theme for Zathura
+# Swaps Foreground for Background to get a light version if the user prefers
+#
+# Aura Ultra color theme
+#
+set notification-error-bg "#ff6767"
+set notification-error-fg "#edecee"
+set notification-warning-bg "#ffd49b"
+set notification-warning-fg "#3b2f4a"
+set notification-bg "#2a1f3d"
+set notification-fg "#edecee"
+set completion-bg "#2a1f3d"
+set completion-fg "#c8bff2"
+set completion-group-bg "#2a1f3d"
+set completion-group-fg "#c8bff2"
+set completion-highlight-bg "#3b2f4a"
+set completion-highlight-fg "#edecee"
+set index-bg "#2a1f3d"
+set index-fg "#edecee"
+set index-active-bg "#3b2f4a"
+set index-active-fg "#edecee"
+set inputbar-bg "#2a1f3d"
+set inputbar-fg "#edecee"
+set statusbar-bg "#2a1f3d"
+set statusbar-fg "#edecee"
+set highlight-color "#ffd49b"
+set highlight-active-color "#61ffca"
+set default-bg "#2a1f3d"
+set default-fg "#edecee"
+set render-loading true
+set render-loading-fg "#2a1f3d"
+set render-loading-bg "#edecee"
+#
+# Recolor mode settings
+# <C-r> to switch modes
+#
+set recolor-lightcolor "#2a1f3d"
+set recolor-darkcolor "#edecee"

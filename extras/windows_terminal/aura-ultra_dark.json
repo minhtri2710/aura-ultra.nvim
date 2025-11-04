@@ -1,0 +1,25 @@
+# Add the following object to your Windows Terminal configuration
+# https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes#creating-your-own-color-scheme
+{
+    "background": "#2a1f3d",
+    "black": "#221931",
+    "blue": "#82e2ff",
+    "brightBlack": "#3b2f4a",
+    "brightBlue": "#82e2ff",
+    "brightCyan": "#72f1e5",
+    "brightGreen": "#61ffca",
+    "brightPurple": "#a277ff",
+    "brightRed": "#ff6767",
+    "brightWhite": "#edecee",
+    "brightYellow": "#ffd49b",
+    "cursorColor": "#edecee",
+    "cyan": "#72f1e5",
+    "foreground": "#edecee",
+    "green": "#61ffca",
+    "name": "Aura Ultra",
+    "purple": "#f694ff",
+    "red": "#ff6767",
+    "selectionBackground": "#2b2d43",
+    "white": "#c8bff2",
+    "yellow": "#ffd49b"
+}

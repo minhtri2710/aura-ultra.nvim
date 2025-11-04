@@ -1,0 +1,45 @@
+[colors]
+foreground = "#edecee"
+background = "#2a1f3d"
+cursor_bg = "#edecee"
+cursor_border = "#edecee"
+cursor_fg = "#2a1f3d"
+selection_bg = "#2b2d43"
+selection_fg = "#edecee"
+split = "#82e2ff"
+compose_cursor = "#ffca85"
+scrollbar_thumb = "#211f2f"
+
+ansi = ["#221931", "#ff6767", "#61ffca", "#ffd49b", "#82e2ff", "#f694ff", "#72f1e5", "#c8bff2"]
+brights = ["#3b2f4a", "#ff8080", "#c9ffe8", "#ffe5c8", "#b5ebff", "#f7abff", "#8bfef3", "#edecee"]
+
+[colors.tab_bar]
+inactive_tab_edge = "#23182f"
+background = "#2a1f3d"
+
+[colors.tab_bar.active_tab]
+fg_color = "#23182f"
+bg_color = "#82e2ff"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#5a4d7a"
+bg_color = "#211f2f"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#82e2ff"
+bg_color = "#211f2f"
+# intensity = "Bold"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#82e2ff"
+bg_color = "#2a1f3d"
+intensity = "Bold"
+
+[colors.tab_bar.new_tab]
+fg_color = "#82e2ff"
+bg_color = "#2a1f3d"
+
+[metadata]
+aliases = []
+author = "minhtri2710"
+name = "aura-ultra_dark"

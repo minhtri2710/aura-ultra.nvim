@@ -1,0 +1,36 @@
+style:
+  name: aura-ultra_dark
+  body:
+    fgColor: '#edecee'
+    bgColor: '#23182f'
+    secondaryTextColor: '#c8bff2'
+    tertiaryTextColor: '${fg_visual}'
+    borderColor: '#3b2f4f'
+  stat_table:
+    keyFgColor: '#ffd49b'
+    valueFgColor: '#edecee'
+    logoColor: '#ffd49b'
+  proc_table:
+    fgColor: '#82e2ff'
+    fgWarning: '#ffd49b'
+    fgPending: '#5a4d7a'
+    fgCompleted: '#61ffca'
+    fgError: '#cc5252'
+    headerFgColor: '#edecee'
+  help:
+    fgColor: '#a5eaff'
+    keyColor: '#edecee'
+    hlColor: '#61ffca'
+    categoryFgColor: '#5593a6'
+  dialog:
+    fgColor: '#a5eaff'
+    bgColor: '#221931'
+    contrastBgColor: '#2a1f3d'
+    attentionBgColor: '#cc5252'
+    buttonFgColor: '#221931'
+    buttonBgColor: '#211f2f'
+    buttonFocusFgColor: '#221931'
+    buttonFocusBgColor: '#82e2ff'
+    labelFgColor: '#ffd49b'
+    fieldFgColor: '#221931'
+    fieldBgColor: '#759ca7'

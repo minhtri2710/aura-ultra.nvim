@@ -1,0 +1,28 @@
+{
+  "name": "Aura Ultra",
+  "version": 1,
+  "shared": {
+    "backgroundColor": "#2a1f3d",
+    "colorPaletteOverrides": [
+      "#221931",
+      "#ff6767",
+      "#61ffca",
+      "#ffd49b",
+      "#82e2ff",
+      "#f694ff",
+      "#72f1e5",
+      "#c8bff2",
+      "#3b2f4a",
+      "#ff8080",
+      "#c9ffe8",
+      "#ffe5c8",
+      "#b5ebff",
+      "#f7abff",
+      "#8bfef3",
+      "#edecee",
+    ],
+    "cursorColor": "#edecee",
+    "foregroundColor": "#edecee"
+  }
+}
+

@@ -1,0 +1,17 @@
+# AuraUltra colors for dunst
+# For more configuration options see https://github.com/dunst-project/dunst/blob/master/dunstrc
+
+[urgency_low]
+    background = "#23182f"
+    foreground = "#edecee"
+    frame_color = "#edecee"
+
+[urgency_normal]
+    background = "#2a1f3d"
+    foreground = "#edecee"
+    frame_color = "#edecee"
+
+[urgency_critical]
+    background = "#211f2f"
+    foreground = "#cc5252"
+    frame_color = "#cc5252"

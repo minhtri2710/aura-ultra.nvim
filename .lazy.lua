@@ -1,14 +1,14 @@
 local M = {
-  module = "tokyonight",
-  colorscheme = "tokyonight",
-  opts = { style = "moon", plugins = { all = true } },
+  module = "aura-ultra",
+  colorscheme = "aura-ultra",
+  opts = { style = "dark", plugins = { all = true } },
   globals = { vim = vim },
   cache = {}, ---@type table<string, boolean>
 }
 
 function M.reset()
-  require("tokyonight.util").cache.clear()
-  local colors = require("tokyonight.colors").setup()
+  require("aura-ultra.util").cache.clear()
+  local colors = require("aura-ultra.colors").setup()
   M.globals.colors = colors
   M.globals.c = colors
 end

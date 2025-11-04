@@ -1,0 +1,25 @@
+# AuraUltra
+
+# Syntax Highlighting Colors
+fish_color_normal edecee
+fish_color_command 72f1e5
+fish_color_keyword f694ff
+fish_color_quote ffd49b
+fish_color_redirection edecee
+fish_color_end ffca85
+fish_color_option f694ff
+fish_color_error ff6767
+fish_color_param a277ff
+fish_color_comment 6e5f8f
+fish_color_selection --background=2b2d43
+fish_color_search_match --background=2b2d43
+fish_color_operator 61ffca
+fish_color_escape f694ff
+fish_color_autosuggestion 6e5f8f
+
+# Completion Pager Colors
+fish_pager_color_progress 6e5f8f
+fish_pager_color_prefix 72f1e5
+fish_pager_color_completion edecee
+fish_pager_color_description 6e5f8f
+fish_pager_color_selected_background --background=2b2d43

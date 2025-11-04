@@ -1,0 +1,16 @@
+assistant-output-color: "#edecee"
+
+# see the aider extra README for more information about setting the `code-theme`
+# https://github.com/minhtri2710/aura-ultra.nvim/blob/extras/aider/README.md
+# code-theme: aura-ultra-dark
+
+completion-menu-color: "#edecee"
+completion-menu-bg-color: "#23182f"
+completion-menu-current-color: "#edecee"
+completion-menu-current-bg-color: "#211f2f"
+
+tool-error-color: "#cc5252"
+tool-output-color: "#82e2ff"
+tool-warning-color: "#ffd49b"
+
+user-input-color: "#61ffca"

@@ -1,0 +1,22 @@
+// Aura Ultra Zellij Colors
+// Add this file to your `CONFIG_DIR/themes` directory as described here:
+// https://zellij.dev/documentation/themes#getting-zellij-to-pick-up-the-theme
+
+themes {
+    aura-ultra_dark {
+        fg "#edecee"
+        bg "#211f2f"
+        // Black should match the terminal background color
+        // This ensures the top and bottom bars are transparent
+        black "#2a1f3d"
+        red "#ff6767"
+        green "#61ffca"
+        yellow "#ffd49b"
+        blue "#82e2ff"
+        magenta "#f694ff"
+        cyan "#72f1e5"
+        white "#c8bff2"
+        orange "#ffca85"
+    }
+}
+
