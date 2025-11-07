@@ -46,7 +46,7 @@ local function create_palette()
     bg_search = mix(base.blue, 0.25, base.black),
     bg_sidebar = darken(base.black, 0.2),
     bg_statusline = darken(base.black, 0.2),
-    bg_visual = mix(base.purple, 0.25, base.black),
+    bg_visual = base.purple,
     blue = base.blue,
     blue0 = mix(base.blue, 0.22, base.black),
     blue1 = lighten(base.blue, 0.28),
