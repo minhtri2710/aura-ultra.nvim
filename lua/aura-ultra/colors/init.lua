@@ -18,7 +18,7 @@ local base = {
   dark3 = "#5a4d7a",
   dark5 = "#7a6f9b",
   comment = "#6e5f8f",
-  terminal_black = "#3b2f4a",
+  terminal_black = "#4e3e63",
 }
 
 local function lighten(hex, amount)

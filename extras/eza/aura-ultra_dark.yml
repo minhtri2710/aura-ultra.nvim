@@ -4,10 +4,10 @@ filekinds:
   normal: { foreground: "#edecee" }
   directory: { foreground: "#82e2ff" }
   symlink: { foreground: "#a5eaff" }
-  pipe: { foreground: "#3b2f4a" }
+  pipe: { foreground: "#4e3e63" }
   block_device: { foreground: "#ffd49b" }
   char_device: { foreground: "#ffd49b" }
-  socket: { foreground: "#3b2f4a" }
+  socket: { foreground: "#4e3e63" }
   special: { foreground: "#a277ff" }
   executable: { foreground: "#61ffca" }
   mount_point: { foreground: "#487c8c" }

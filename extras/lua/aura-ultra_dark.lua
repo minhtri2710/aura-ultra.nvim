@@ -59,7 +59,7 @@ local colors = {
   teal = "#72f1e5",
   terminal = {
     black = "#221931",
-    black_bright = "#3b2f4a",
+    black_bright = "#4e3e63",
     blue = "#82e2ff",
     blue_bright = "#b5ebff",
     cyan = "#72f1e5",
@@ -79,7 +79,7 @@ local colors = {
     yellow = "#ffd49b",
     yellow_bright = "#ffe5c8"
   },
-  terminal_black = "#3b2f4a",
+  terminal_black = "#4e3e63",
   todo = "#82e2ff",
   warning = "#ffd49b",
   yellow = "#ffd49b"
@@ -442,7 +442,7 @@ local highlights = {
     fg = "#8cc1d8"
   },
   BlinkCmpGhostText = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   BlinkCmpKindArray = "LspKindArray",
   BlinkCmpKindBoolean = "LspKindBoolean",
@@ -750,7 +750,7 @@ local highlights = {
     fg = "#8cc1d8"
   },
   CmpGhostText = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   CmpItemAbbr = {
     bg = "NONE",
@@ -831,7 +831,7 @@ local highlights = {
     bg = "#23182f"
   },
   CodeiumSuggestion = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   ColorColumn = {
     bg = "#221931"
@@ -841,7 +841,7 @@ local highlights = {
     italic = true
   },
   ComplHint = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   Conceal = {
     fg = "#7a6f9b"
@@ -850,10 +850,10 @@ local highlights = {
     fg = "#ffca85"
   },
   CopilotAnnotation = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   CopilotSuggestion = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   CurSearch = "IncSearch",
   Cursor = {
@@ -953,7 +953,7 @@ local highlights = {
     undercurl = true
   },
   DiagnosticUnnecessary = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   DiagnosticVirtualTextError = {
     bg = "#3a243f",
@@ -2482,7 +2482,7 @@ local highlights = {
     fg = "#221931"
   },
   SupermavenSuggestion = {
-    fg = "#3b2f4a"
+    fg = "#4e3e63"
   },
   TabLine = {
     bg = "#2a1f3d",
@@ -2700,7 +2700,7 @@ local highlights = {
     fg = "#ffd49b"
   },
   helpCommand = {
-    bg = "#3b2f4a",
+    bg = "#4e3e63",
     fg = "#82e2ff"
   },
   helpExample = {
