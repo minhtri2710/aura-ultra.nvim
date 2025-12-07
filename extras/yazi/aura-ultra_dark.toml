@@ -57,7 +57,7 @@ perm_type  = { fg = "#82e2ff" }
 perm_read  = { fg = "#ffd49b" }
 perm_write = { fg = "#ff6767" }
 perm_exec  = { fg = "#61ffca" }
-perm_sep   = { fg = "#4e3e63" }
+perm_sep   = { fg = "#786395" }
 
 [pick]
 border   = { fg = "#8cc1d8" }

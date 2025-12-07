@@ -5,7 +5,7 @@ hi ALEErrorSign guibg=NONE guifg=#cc5252
 hi ALEWarningSign guibg=NONE guifg=#ffd49b
 hi BlinkCmpDoc guibg=#23182f guifg=#edecee
 hi BlinkCmpDocBorder guibg=#23182f guifg=#8cc1d8
-hi BlinkCmpGhostText guibg=NONE guifg=#4e3e63
+hi BlinkCmpGhostText guibg=NONE guifg=#786395
 hi BlinkCmpKindCodeium guibg=NONE guifg=#72f1e5
 hi BlinkCmpKindCopilot guibg=NONE guifg=#72f1e5
 hi BlinkCmpKindDefault guibg=NONE guifg=#c8bff2
@@ -22,11 +22,11 @@ hi Bold gui=bold guibg=NONE guifg=#edecee
 hi Character guibg=NONE guifg=#61ffca
 hi ColorColumn guibg=#221931
 hi Comment gui=italic guibg=NONE guifg=#6e5f8f
-hi ComplHint guibg=NONE guifg=#4e3e63
+hi ComplHint guibg=NONE guifg=#786395
 hi Conceal guibg=NONE guifg=#7a6f9b
 hi Constant guibg=NONE guifg=#ffca85
-hi CopilotAnnotation guibg=NONE guifg=#4e3e63
-hi CopilotSuggestion guibg=NONE guifg=#4e3e63
+hi CopilotAnnotation guibg=NONE guifg=#786395
+hi CopilotSuggestion guibg=NONE guifg=#786395
 hi Cursor guibg=#edecee guifg=#2a1f3d
 hi CursorColumn guibg=#211f2f
 hi CursorIM guibg=#edecee guifg=#2a1f3d
@@ -40,7 +40,7 @@ hi DiagnosticUnderlineError gui=undercurl guibg=NONE guisp=#cc5252
 hi DiagnosticUnderlineHint gui=undercurl guibg=NONE guisp=#72f1e5
 hi DiagnosticUnderlineInfo gui=undercurl guibg=NONE guisp=#99e7ff
 hi DiagnosticUnderlineWarn gui=undercurl guibg=NONE guisp=#ffd49b
-hi DiagnosticUnnecessary guibg=NONE guifg=#4e3e63
+hi DiagnosticUnnecessary guibg=NONE guifg=#786395
 hi DiagnosticVirtualTextError guibg=#3a243f guifg=#cc5252
 hi DiagnosticVirtualTextHint guibg=#31344e guifg=#72f1e5
 hi DiagnosticVirtualTextInfo guibg=#353350 guifg=#99e7ff
@@ -261,7 +261,7 @@ hi diffRemoved guibg=#532c42 guifg=#77373b
 hi healthError guibg=NONE guifg=#cc5252
 hi healthSuccess guibg=NONE guifg=#7dffd4
 hi healthWarning guibg=NONE guifg=#ffd49b
-hi helpCommand guibg=#4e3e63 guifg=#82e2ff
+hi helpCommand guibg=#786395 guifg=#82e2ff
 hi helpExample guibg=NONE guifg=#6e5f8f
 hi htmlH1 gui=bold guibg=NONE guifg=#f694ff
 hi htmlH2 gui=bold guibg=NONE guifg=#82e2ff

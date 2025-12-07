@@ -3,7 +3,7 @@ name = "Aura Ultra"
 [themes.palette]
 background = "#23182f"
 foreground = "#c8bff2"
-black = "#4e3e63"
+black = "#786395"
 red = "#ff6767"
 green = "#61ffca"
 yellow = "#ffd49b"
